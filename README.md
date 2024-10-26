@@ -15,7 +15,7 @@ A multimedia company experienced a DDoS attack that compromised its internal net
 
 <a href="https://docs.google.com/document/d/1EnieOKYJyKGsVff5Gg-3-dVwrHrZ2m8Hig6tVpfKqyg/template/preview?resourcekey=0-eb5t-d69zTPLEGthIpVlXw"><img src="https://img.shields.io/badge/-GoogleDOC:Incident Report Template-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <a href="https://docs.google.com/document/d/15yCDbDCOAcJw-LTz2DeCA7UeLRfvsf176T6MA6ku6ok/template/preview"><img src="https://img.shields.io/badge/-GoogleDOC:Applying the NIST CSF-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://docs.google.com/document/d/11eTIo1igTRFrY279DG9tHTO3tB3bugSGyknZxsvY5vI/template/preview?resourcekey=0-97MA-eOwoGtqcfqky0vjmg"><img src="https://img.shields.io/badge/-GoogleDOC:Incident report analysis - Example-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/11eTIo1igTRFrY279DG9tHTO3tB3bugSGyknZxsvY5vI/template/preview?resourcekey=0-97MA-eOwoGtqcfqky0vjmg"><img src="https://img.shields.io/badge/-GoogleDOC:Incident report analysis -Example-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
 ## Completed Incident report using NIST CSF ( National Institute of Standards and Technology Cybersecurity Framework.) 
 
